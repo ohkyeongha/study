@@ -1,3 +1,7 @@
+git config user.name "ohkyeongha"
+
+git config user.email "okh970526@gmail.com"
+
 git init
 
 git add .
